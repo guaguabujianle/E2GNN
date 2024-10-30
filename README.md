@@ -1,4 +1,4 @@
-# LEIGNN
+# E2GNN
 
 ## Dataset
 We use ISO17, H2O, and CH4 as examples to illustrate how to use LEIGNN.
